@@ -35,10 +35,10 @@ To get the project up and running follow the steps below:
 
 ### Features
 
-1. The page starts a number of cards displayed according to the screen's internal height.
+1. The page starts with a number of cards displayed according to the screen's internal height.
 1. The remaining cards will preview upon scrolling with a smooth and funny animation.
 2. the cards appear and disapper dynamically upon scrolling up and down.
-3. The scrolling animation behaviour is dynamic and can be re-sued for multible application tabs.
+3. The scrolling animation behaviour is dynamic and can be re-used for multible application tabs.
 
 ![This is an image](/assets/ezgif.com-gif-maker%20(1).gif)
 
